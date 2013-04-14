@@ -1,4 +1,1 @@
-schule
-======
-
-Just a Test
+Ähm ja irgendein README text.
